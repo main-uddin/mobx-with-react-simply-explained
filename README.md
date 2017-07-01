@@ -174,7 +174,7 @@ Finally this is our ```App.js``` component
 
 ![image](https://user-images.githubusercontent.com/19225595/27219102-4086c00e-52a2-11e7-82f9-e14fe2787ba9.png)
 
-And our enterprise level appl
+## And our enterprise level app !
 
 ![mob-test](https://user-images.githubusercontent.com/19225595/27219746-9afa95cc-52a4-11e7-8a99-e30daa547a09.gif)
 
