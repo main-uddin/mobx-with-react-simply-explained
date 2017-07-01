@@ -80,6 +80,7 @@ First we initialize the state and then use ```setState()``` whenever necessary t
 Like
 
 ```javascript
+// initializing state
 this.state = {
   name: 'Messi'
 }
@@ -90,6 +91,7 @@ Say, there is a ```button``` and if you click the ```button``` it shows you the 
 So ```onClick``` we do 
 
 ```javascript
+// using setState() to update data
 this.setState({
   name: 'Lionel Messi'
 })
